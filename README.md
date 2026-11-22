@@ -2,7 +2,7 @@
 
 An AI agent that reads every post you've liked on X. It checks the useful ones against their sources and against your own notes and code, then writes you a short review of what's worth acting on.
 
-Posts on X are written by strangers, and this agent works next to your private notes. So it's split into four stages, and no stage gets all three of: untrusted text, your private data, and a way to send data out.
+It reads those X posts right next to your private notes. So it's split into four stages, and no stage gets all three of: untrusted text, your private data, and a way to send data out.
 
 ![No stage gets all three](docs/no-stage-gets-all-three.png)
 
